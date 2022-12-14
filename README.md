@@ -76,8 +76,6 @@ The system will send randomly generated code to the user's email address.
 #### Submission
 ---
 * Submit a detailed project plan for your daily performance (day/task/time) and submit it with your code.
-* Fork this repository and push your changes.
-* Once you finished your project, send a Pull Request. (Send only one Pull Request once you finish the assignment.)
 * Project will be evaluated based on your code quality. It is possible that I will need to schedule meetings with some students about their source-code.
 
 #### Important Notes
